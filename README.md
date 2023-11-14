@@ -1,2 +1,4 @@
 # odin-recipes
-HTML link, images project
+
+This is a basic recipes website with main index page 
+which has links to a few recipe pages.
