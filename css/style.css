@@ -1,9 +1,11 @@
-h1 {
+h1,h2 {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    color: #daa520;
+    color: #030303;
 }
 
-ul {
+ul,ol,p {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: 16px;
+    color: #030303;
 }
+
