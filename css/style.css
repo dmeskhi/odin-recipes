@@ -9,3 +9,15 @@ ul,ol,p {
     color: #030303;
 }
 
+li {
+    display: inline;
+    margin-right: 10px;
+}
+
+.main-container {
+    width: 600px;
+    padding: 10px;
+    margin: 0 auto;
+}
+
+
